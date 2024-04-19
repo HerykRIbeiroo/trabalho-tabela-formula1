@@ -1,0 +1,107 @@
+body {
+    min-height: 100%;
+    margin: 0 auto;
+    background-image: url(./iMAGENS/imagemformula1.jpg);
+    
+ 
+}
+
+table{
+    border: 1px solid black;
+    background-color: aquamarine;
+   
+}
+
+.tamanhoimagens{
+    width: 30px;
+    width: 30px;
+
+}
+
+tr {
+    border: 1px solid black;
+}
+
+td {
+    border: 1px solid black;
+}
+
+.divtitulo {
+    padding-top: 30px;
+    padding-left: 500px;
+    color: rgb(255, 255, 255);
+    float: right;
+    width: 100%;
+    text-align: center;
+}
+
+.fia {
+    width: 50px;
+    height: 50px;
+    padding-top: 12px;
+    padding-left: 440px;
+    position: absolute;
+}
+.f1{
+    width: 80px;
+    height: 80px;
+    padding-left: 730px;
+    position: absolute;
+}
+
+.pilotos{
+    padding-top: 80px;
+    padding-left: 800px;
+    position: absolute;
+    color: red;
+}
+        
+.bahrein{
+    padding-top: 450px;
+    position: absolute;
+    padding-left: 15px;
+}
+    
+.arabiasaudita{
+    padding-top: 450px;
+    position: absolute;
+    padding-left: 250px;
+}
+
+.australia{
+    padding-top: 450px;
+    position: absolute;
+    padding-left: 485px;
+}
+
+.costrutoresbahrein{
+    position: absolute;
+    padding-top: 800px;
+    padding-left: 15px;
+}
+
+.contrutoresarabiasaudita{
+    position: absolute;
+    padding-top: 800px;
+    padding-left: 400px;
+}
+
+.costrutoresaustralia{
+    position: absolute;
+    padding-top: 800px;
+    padding-left: 830px;
+}
+
+.finalequipe{
+    position: absolute;
+    padding-top: 80px;
+    padding-left: 15px;
+}
+
+.pontuacaopilotos{
+    position: absolute;
+    padding-top: 80px;
+    padding-left: 400px;
+    color:;
+   
+}
